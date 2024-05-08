@@ -1,5 +1,3 @@
-
-
 def main():
     print("Welcome to the Name Band!")
     print("What is a name of the city you grew up in?")
